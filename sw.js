@@ -1,9 +1,9 @@
 const CACHE_NAME = 'hello-pwa-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/style.css',
-  '/app.js'
+  '/ky4mail/',
+  '/ky4mail/index.html',
+  '/ky4mail/style.css',
+  '/ky4mail/app.js'
 ];
 
 self.addEventListener('install', event => {
