@@ -1,20 +1,20 @@
 {
-  "name": "Hello World PWA",
-  "short_name": "Hello PWA",
-  "start_url": "/ky4mail/index.html",
-  "display": "standalone",
-  "background_color": "#f0f0f0",
-  "theme_color": "#6200ea",
-  "icons": [
-    {
-      "src": "/ky4mail/icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "/ky4mail/icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ]
+    "name": "PWA Date Time",
+    "short_name": "DateTime",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
 }
