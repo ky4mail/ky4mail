@@ -1,7 +1,7 @@
 {
     "name": "PWA Date Time",
     "short_name": "DateTime",
-    "start_url": "index.html?v=13",
+    "start_url": "index.html?v=513",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
